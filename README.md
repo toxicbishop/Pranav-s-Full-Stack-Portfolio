@@ -31,7 +31,8 @@ Ensure you have the following installed:
 ```bash
 git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
 cd YOUR_REPO_NAME
-
+```
+### 3. Project Strcture
 ├── index.html          # Home Page
 ├── about.html          # About Me Page
 ├── contact.html        # Contact Form (Frontend)
