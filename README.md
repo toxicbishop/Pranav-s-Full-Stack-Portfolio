@@ -32,7 +32,18 @@ Ensure you have the following installed:
 git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
 cd YOUR_REPO_NAME
 ```
-### 3. Project Strcture
+### 3. Set Up the Backend
+install the required Python libraries
+```bash
+pip install flask flask-cors pymongo
+```
+### 4. Run the Application
+Step 1: Start MongoDB Make sure MongoDB is running in the background (it usually starts automatically after installation).
+Step 2: Start the Python Server Open your terminal and run:
+```bash
+python app.py
+```
+### 5. Project Strcture
 ```bash
 ├── index.html          # Home Page
 ├── about.html          # About Me Page
