@@ -17,6 +17,8 @@ Welcome to my personal portfolio website! This project is a full-stack web appli
 * **Backend:** Python 3, Flask
 * **Database:** MongoDB (Local Community Server)
 * **Tools:** VS Code, Git, GitHub
+* ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ## ⚙️ Setup & Installation
 
@@ -56,6 +58,5 @@ python app.py
 ├── seo.png             # Website Favicon
 └── README.md           # Documentation
 ```
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ### 🤝 Contributing
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
