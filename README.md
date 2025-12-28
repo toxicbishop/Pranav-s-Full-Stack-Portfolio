@@ -31,3 +31,14 @@ Ensure you have the following installed:
 ```bash
 git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
 cd YOUR_REPO_NAME
+
+├── index.html          # Home Page
+├── about.html          # About Me Page
+├── contact.html        # Contact Form (Frontend)
+├── products.html       # Project Showcase
+├── admin.html          # Dashboard to view database messages
+├── app.py              # Python Flask Backend
+├── style.css           # Global Styles & Dark Mode
+├── script.js           # Frontend Logic (Toggle, API calls)
+├── seo.png             # Website Favicon
+└── README.md           # Documentation
