@@ -56,3 +56,5 @@ python app.py
 ├── seo.png             # Website Favicon
 └── README.md           # Documentation
 ```
+### 🤝 Contributing
+Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
