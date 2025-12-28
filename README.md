@@ -28,6 +28,7 @@ Follow these steps to run the project locally on your machine.
 Ensure you have the following installed:
 * [Python 3.x](https://www.python.org/downloads/)
 * [MongoDB Community Server](https://www.mongodb.com/try/download/community)
+* pip install -r requirements.txt
 
 ### 2. Clone the Repository
 ```bash
