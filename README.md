@@ -33,6 +33,7 @@ git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.c
 cd YOUR_REPO_NAME
 ```
 ### 3. Project Strcture
+```bash
 ├── index.html          # Home Page
 ├── about.html          # About Me Page
 ├── contact.html        # Contact Form (Frontend)
@@ -43,3 +44,4 @@ cd YOUR_REPO_NAME
 ├── script.js           # Frontend Logic (Toggle, API calls)
 ├── seo.png             # Website Favicon
 └── README.md           # Documentation
+```
